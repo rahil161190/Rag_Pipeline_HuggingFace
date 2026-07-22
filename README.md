@@ -55,10 +55,10 @@ Steps implemented in this project:
 ---
 
 ## 🚀 Demo Video
+
+🎥 [Click here to watch the demo](demo.mp4)
+
 <video src="demo.mp4" controls width="600"></video>
-
-
-
 
 ---
 
