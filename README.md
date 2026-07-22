@@ -1,5 +1,11 @@
 # 📘 RAG Pipeline – Hugging Face
 
+## 🚀 Demo Video
+
+🎥 [Click here to watch the demo](https://rahil161190.github.io/Rag_Pipeline_HuggingFace/?utm_source=copilot.com)
+
+<video src="demo.mp4" controls width="600"></video>
+
 ## ⭐ Situation
 Retrieval-Augmented Generation (RAG) combines **retrieval of relevant documents** with **generation from large language models (LLMs)**.  
 This project demonstrates how to build a practical RAG pipeline using Hugging Face datasets, sentence-transformer embeddings, and ChromaDB as the vector store.
@@ -54,11 +60,7 @@ Steps implemented in this project:
 
 ---
 
-## 🚀 Demo Video
 
-🎥 [Click here to watch the demo](https://rahil161190.github.io/Rag_Pipeline_HuggingFace/?utm_source=copilot.com)
-
-<video src="demo.mp4" controls width="600"></video>
 
 ---
 
