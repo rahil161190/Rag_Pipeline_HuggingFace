@@ -54,10 +54,9 @@ Steps implemented in this project:
 
 ---
 
-## 🚀 Demo Video
-🎥 Watch the walkthrough of the RAG pipeline in action:  
+👉 ## 🚀 Demo Video
+🎥 [Click here to watch the demo](RAG%20Demonstration%20(2).mp4)
 
-👉 [RAG Practice Demo (MP4)](https://efe83d1741b6172cc2.gradio.live)
 
 ---
 
