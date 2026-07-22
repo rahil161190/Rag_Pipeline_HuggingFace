@@ -54,8 +54,10 @@ Steps implemented in this project:
 
 ---
 
-👉 ## 🚀 Demo Video
-🎥 [Click here to watch the demo](RAG%20Demonstration%20(2).mp4)
+## 🚀 Demo Video
+
+<video src="demo.mp4" controls width="600"></video>
+
 
 
 ---
