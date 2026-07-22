@@ -56,7 +56,7 @@ Steps implemented in this project:
 
 ## 🚀 Demo Video
 
-🎥 [Click here to watch the demo]([demo.mp4](https://rahil161190.github.io/Rag_Pipeline_HuggingFace/?utm_source=copilot.com))
+🎥 [Click here to watch the demo](https://rahil161190.github.io/Rag_Pipeline_HuggingFace/?utm_source=copilot.com)
 
 <video src="demo.mp4" controls width="600"></video>
 
